@@ -1,0 +1,10 @@
+.footer{
+    margin-top: 60px;
+}
+.footer-container{
+    border-top: 1px solid black
+}
+.footer-end{
+    background-color: black;
+    height: 40px;
+}

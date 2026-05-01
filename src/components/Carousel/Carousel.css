@@ -1,0 +1,14 @@
+.carousel-title{
+    width: 100%;
+    display: flex;
+}
+.half{
+    width: 50% !important;
+}
+.title{
+    text-align: left;
+}
+.show{
+    text-align: right;
+    margin:auto ;
+}
